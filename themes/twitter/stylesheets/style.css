@@ -12,7 +12,7 @@ html, body {
   margin-top: 20px;
 }
 .container > footer p {
-  text-align: center; /* center align it with the container */
+  text-align: right;
 }
 
 /* The white background content wrapper */

@@ -1,16 +1,13 @@
-title : Blog Title
-tagline: Blog Tagline
+title : pmarques.eu
+tagline:
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Paulo Marques
+  email : pjp.marques@gmail.com
+  github : pjpmarques
+#  twitter : username
+#  feedburner : feedname
 
 navigation :
-  - archive.html
-  - tags.html
-  - categories.html
-  - pages.html
+  - archive.md
+  - publications.md
   - about.md
-  
