@@ -18,15 +18,15 @@ Books
 
 <hr/>
 
-* "C# - 4.0", ISBN 978-972-722-703-7, FCA Publishers, August 2011. (with H. Pedroso and R. Figueira)
+* "C# - 4.0", ISBN 978-972-722-703-7, FCA Publishers, August 2011. *(with H. Pedroso and R. Figueira)*
 
-* "C# - 3.5", ISBN 978-972-722-403-6, FCA Publishers, February 2009. *(with H. Pedroso and R. Figueira)
+* "C# - 3.5", ISBN 978-972-722-403-6, FCA Publishers, February 2009. *(with H. Pedroso and R. Figueira)*
 
-* "C# - 2.0", Brazilian Edition, ISBN 978-85-216-1557-6, LTC, 2007. (with H. Pedroso and R. Figueira)
+* "C# - 2.0", Brazilian Edition, ISBN 978-85-216-1557-6, LTC, 2007. *(with H. Pedroso and R. Figueira)*
 
-* "C# - 2.0", ISBN 972-722-508-X, FCA Publishers, November 2005. (with H. Pedroso)
+* "C# - 2.0", ISBN 972-722-508-X, FCA Publishers, November 2005. *(with H. Pedroso)*
 
-* "C# - Curso Completo", ISBN 972-722-289-7, FCA Publishers, October 2002. (with H. Pedroso)
+* "C# - Curso Completo", ISBN 972-722-289-7, FCA Publishers, October 2002. *(with H. Pedroso)*
 
 
 <hr/>
