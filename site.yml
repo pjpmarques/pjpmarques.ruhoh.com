@@ -1,4 +1,4 @@
-title : pmarques.eu
+title : pmarques
 tagline:
 author :
   name : Paulo Marques
@@ -8,6 +8,6 @@ author :
 #  feedburner : feedname
 
 navigation :
-  - archive.md
+#  - archive.md
   - publications.md
-  - about.md
+#  - about.md

@@ -3,4 +3,4 @@ title: Home
 description:
 ---
 
-This is all about web pages.
+My home page, yet to come.
