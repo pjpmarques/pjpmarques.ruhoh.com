@@ -1,6 +1,8 @@
 ---
-title: Home
+title: Paulo Marques
 description:
 ---
 
-My home page, yet to come.
+<img src="{{urls.media}}/imgs/eu.jpg" width="940" height="360"/>
+
+Through the unpaved roads of Africa, away from cellphones and email, it's where one feels most free.

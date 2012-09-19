@@ -1,8 +1,7 @@
-This is the "pmarques.eu" website. 
+This is the source for my personal website ("pmarques.eu"). 
 
-It's based on **ruhoh**. See <http://ruhoh.com> for more information.
+The website is built using **ruhoh**. Check <http://ruhoh.com> for more information.
 
 ## License
 
 Released under the [MIT License](http://www.opensource.org/licenses/MIT)
-
