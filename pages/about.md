@@ -8,7 +8,7 @@ I'm the CTO of [FeedZai](http://www.feedzai.com) of which I'm also a founding pa
 
 Before founding FeedZai I was an Assistant Professor at the [University of Coimbra](http://www.uc.pt/en) and an Adjunct Associate Teaching Professor at [Carnegie Mellon University](http://www.cmu.edu). I was also the Director of the CMU|Portugal Professional  Program in Software Engineering. Over the years I have lead and worked in a large number of projects for institutions like the European Space Agency, Microsoft Research, Critical-Software, Siemens, SciSys, among others. 
 
-I'm passioned not only by science and technology but also by learning and teaching. One of the greatest pleasures is live is learning something afresh, something new. The other is sharing it with another person. 
+I'm passioned not only by science and technology but also by learning and teaching. One of the greatest pleasures in live is learning something afresh, something new. The other is sharing it with another person. 
 
 <hr/>
 
