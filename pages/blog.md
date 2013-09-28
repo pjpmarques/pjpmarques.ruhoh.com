@@ -12,5 +12,5 @@ Not really a blog, just a couple of things I've been working on:
 
 ---
 
-Also check my [GitHub Page](https://www.github.com/pjpmarques/).
+Check my [GitHub Page](https://www.github.com/pjpmarques/) for other random projects. 
 
