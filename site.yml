@@ -10,6 +10,6 @@ author :
 navigation :
 #  - archive.md
   - publications.md
-  - [GitHub](https://github.com/pjpmarques/)
+  - <a href="https://github.com/pjpmarques/">GitHub</a>
   - language.md
   - about.md
