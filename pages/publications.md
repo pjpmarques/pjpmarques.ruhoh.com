@@ -60,6 +60,10 @@ Journal Articles
 Conference Papers
 -----------------
 
+* M. Mendes, P. Bizarro, P. Marques: "[Towards a Standard Event Processing Benchmark]({{urls.media}}/papers/mendes_bizarro_pmarques_ICPE2013a.pdf)", in Proc. 4th ACM/SPEC International Conference on Performance Engineering (ICPE'2013), Prague, Czech Republic, April 2013
+
+* M. Mendes, P. Bizarro, P. Marques: "[Overcoming Memory Limitations in  High-Throughput Event-Based Applications]({{urls.media}}/papers/mendes_bizarro_pmarques_ICPE2013b.pdf)", in Proc. 4th ACM/SPEC International Conference on Performance Engineering (ICPE'2013), Prague, Czech Republic, April 2013
+
 * D. Alves, P. Bizarro, P. Marques "[Deadline Queries: Leveraging the Cloud to Produce On-Time Results]({{urls.media}}/papers/dalves_bizarro_pmarques_cloud2011.pdf)", in Proc. of the 4th IEEE International Conference on Cloud Computing (Cloud'2011), Washington DC, USA, Julho de 2011
 
 * M. Mendes, P. Bizarro, P. Marques, "[Assessing and Optimizing Microarchitectural Performance of Event Processing Systems]({{urls.media}}/papers/mendes_bizarro_pmarques_tpctc2010.pdf)", in Proc. of the Second TPC Technology Conference on Performance Evaluation & Benchmarking (TPCTP'2010), Singapore, September 2010
@@ -120,6 +124,10 @@ Conference Papers
 
 Other Publications
 ------------------
+
+* M. Mendes, P. Bizarro, P. Marques: "[FINCoS: benchmark tools for event processing systems]({{urls.media}}/papers/mendes_bizarro_pmarques_ICPE2013c.pdf)", in Proc. 4th ACM/SPEC International Conference on Performance Engineering (ICPE'2013), Prague, Czech Republic, April 2013 *(demo)*
+
+* M. Mendes, P. Bizarro, P. Marques: "[A Framework for Performance Evaluation of Complex Event Processing Systems]({{urls.media}}/papers/mendes_bizarro_pmarques_DEBS2008.pdf)", in Proc. 2nd International Conference on Distributed Event-Based Systems (DEBS'2008), Rome, Italy, July 2008 *(demo)*
 
 * B. Cabral, P. Marques, "[Making Exception Handling Work]({{urls.media}}/papers/bcabral_pmarques_hotdep2006.pdf)", in Proc. of the the USENIX 2nd Workshop on Hot Topics in System Dependability (HotDep'06), USENIX, Seattle, WA, USA, November 2006. *(extended abstract)*
 
