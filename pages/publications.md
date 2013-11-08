@@ -64,7 +64,7 @@ Conference Papers
 
 * M. Mendes, P. Bizarro, P. Marques: "[Overcoming Memory Limitations in  High-Throughput Event-Based Applications]({{urls.media}}/papers/mendes_bizarro_pmarques_ICPE2013b.pdf)", in Proc. 4th ACM/SPEC International Conference on Performance Engineering (ICPE'2013), Prague, Czech Republic, April 2013
 
-* D. Alves, P. Bizarro, P. Marques "[Deadline Queries: Leveraging the Cloud to Produce On-Time Results]({{urls.media}}/papers/dalves_bizarro_pmarques_cloud2011.pdf)", in Proc. of the 4th IEEE International Conference on Cloud Computing (Cloud'2011), Washington DC, USA, Julho de 2011
+* D. Alves, P. Bizarro, P. Marques "[Deadline Queries: Leveraging the Cloud to Produce On-Time Results]({{urls.media}}/papers/dalves_bizarro_pmarques_cloud2011.pdf)", in Proc. of the 4th IEEE International Conference on Cloud Computing (Cloud'2011), Washington DC, USA, July 2011
 
 * M. Mendes, P. Bizarro, P. Marques, "[Assessing and Optimizing Microarchitectural Performance of Event Processing Systems]({{urls.media}}/papers/mendes_bizarro_pmarques_tpctc2010.pdf)", in Proc. of the Second TPC Technology Conference on Performance Evaluation & Benchmarking (TPCTP'2010), Singapore, September 2010
 
