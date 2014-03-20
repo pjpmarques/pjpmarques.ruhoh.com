@@ -41,6 +41,8 @@ Book Chapters
 Journal Articles
 ----------------
 
+* S. Stork, K. Naden, J. Sunshine, M. Mohr, A. Fonseca, P. Marques, J. Aldrich, [Aeminium: A Permission-Based Concurrent-by-Default Programming Language Approach](http://dl.acm.org/citation.cfm?id=J783&CFID=424671256&CFTOKEN=46419028), in ACM Transactions on Programming Languages and Systems (TOPLAS), Vol. 36(1), March 2014
+
 * B. Cabral, P. Marques "[A Transactional Model for Automatic Exception Handling](http://dx.doi.org/10.1016/j.cl.2010.09.002)", in Computer Languages, Systems and Structures, Vol. 37(1), pp. 43-61, Elsevier Science, 2011
 
 * R. Marmelo, P. Bizarro, P. Marques, "[9ticks: The Web as a Stream](http://tr.ietejournals.org/text.asp?2009/26/5/369/55273)", in IETE Technical Review, Vol. 26(5), pp. 369-374, IETE, September-October, 2009
