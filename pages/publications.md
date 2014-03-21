@@ -41,7 +41,7 @@ Book Chapters
 Journal Articles
 ----------------
 
-* S. Stork, K. Naden, J. Sunshine, M. Mohr, A. Fonseca, P. Marques, J. Aldrich, [Aeminium: A Permission-Based Concurrent-by-Default Programming Language Approach](http://dl.acm.org/citation.cfm?id=2543920&CFID=305812957&CFTOKEN=15219503), in ACM Transactions on Programming Languages and Systems (TOPLAS), Vol. 36(1), ACM Press, March 2014
+* S. Stork, K. Naden, J. Sunshine, M. Mohr, A. Fonseca, P. Marques, J. Aldrich, [Aeminium: A Permission-Based Concurrent-by-Default Programming Language Approach]({{urls.media}}/papers/sven_pmarques_toplas2014.pdf), in ACM Transactions on Programming Languages and Systems (TOPLAS), Vol. 36(1), ACM Press, March 2014
 
 * B. Cabral, P. Marques "[A Transactional Model for Automatic Exception Handling](http://dx.doi.org/10.1016/j.cl.2010.09.002)", in Computer Languages, Systems and Structures, Vol. 37(1), pp. 43-61, Elsevier Science, 2011
 
